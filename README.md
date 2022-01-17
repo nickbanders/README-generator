@@ -15,11 +15,8 @@
   * [Credits](#credits)
   * [License](#license)
 
-## Video Walkthrough
-[link](https://drive.google.com/file/d/1OFmakoPS8iE1fnto_MzP1Wi-T9giJTb4/view)
-
 ## Installation
-
+[Click here](https://drive.google.com/file/d/1OFmakoPS8iE1fnto_MzP1Wi-T9giJTb4/view) for video walkthrough
 Make sure you have node.js and npm installed.
 1. Clone repository
 2. Navigate to the directory you cloned the repository to.
