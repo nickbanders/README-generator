@@ -31,7 +31,7 @@ const questions = [
         message: `Write a description of your project.`,
       },
       {
-        type: "input",
+        type: "editor",
         name: "install",
         message: `Enter instructions to install.`,
       },
