@@ -1,5 +1,7 @@
 # README Generator
-  ### Created by: Nick Anders | ### Github: nickbanders | ### E-mail: nickbanders@gmail.com
+  ### Created by: Nick Anders
+  ### Github: nickbanders
+  ### E-mail: nickbanders@gmail.com
 
   ## Description
 
