@@ -16,7 +16,7 @@
   * [License](#license)
 
 ## Video Walkthrough
-[link](https://drive.google.com/file/d/1OFmakoPS8iE1fnto_MzP1Wi-T9giJTb4/view)
+    [link](https://drive.google.com/file/d/1OFmakoPS8iE1fnto_MzP1Wi-T9giJTb4/view)
 
 ## Installation
 
