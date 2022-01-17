@@ -1,4 +1,5 @@
 # README Generator
+  #### for
   #### Created by: Nick Anders
   #### Github: [nickbanders](https://github.com/nickbanders)
   #### E-mail: nickbanders@gmail.com
@@ -25,7 +26,7 @@
 
   ## Usage
   
-  Using the terminal, go into your project's directory and run the ``node.js`` command and follow the instructions. The README file will then be generated and saved to your project's directory.
+  Using the terminal, go into your project's directory and run the node.js command and follow the instructions. The README file will then be generated and saved to your project's directory.
 
   ## Credits
 
@@ -37,4 +38,4 @@
   [![License](https://img.shields.io/badge/license-MIT-green.svg)]
 
   ## Image of Application
-  test
+  https://raw.githubusercontent.com/nickbanders/README-generator/main/images/project-image.png
