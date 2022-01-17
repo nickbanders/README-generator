@@ -15,13 +15,12 @@
   * [Credits](#credits)
   * [License](#license)
 
-  ## Installation
-
-Make sure you have node.js and npm installed.
-
 ## Video Walkthrough
 [link](https://drive.google.com/file/d/1OFmakoPS8iE1fnto_MzP1Wi-T9giJTb4/view)
 
+## Installation
+
+Make sure you have node.js and npm installed.
 1. Clone repository
 2. Navigate to the directory you cloned the repository to.
 3. Install npm modules by running ``npm install`` in the terminal.
