@@ -1,12 +1,6 @@
-<<<<<<< HEAD
-# asdf
-  ### Created by: nick
-  ### Github: [github.com/nickbanders](https://github.com/nickbanders)
-=======
-# README Generator
-  ### Created by: Nick Anders
-  ### Github: github.com/nickbanders
->>>>>>> 5fd3fffbcb271a6b87d30cb2cef06894e83a5bc1
+# Test
+  ### Created by: Nick
+  ### Github: [nickbanders](https://github.com/nickbanders)
   ### E-mail: nickbanders@gmail.com
 
   ## Description
@@ -22,11 +16,11 @@
 
   ## Installation
 
-  
+  asdf
 
   ## Usage
   
-  
+  asdf
 
   ## Credits
 

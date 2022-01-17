@@ -33,7 +33,7 @@ function renderLicenseSection(license) {
 function generateMarkdown(data) {
   return `# ${data.title}
   ### Created by: ${data.name}
-  ### Github: [github.com/${data.github}](https://github.com/${data.github})
+  ### Github: [${data.github}](https://github.com/${data.github})
   ### E-mail: ${data.email}
 
   ## Description
